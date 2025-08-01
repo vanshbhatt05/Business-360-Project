@@ -1,6 +1,6 @@
 # Business-360-Project
 
-## Live Dashboard: _[Business-360-Project](https://app.powerbi.com/view?r=eyJrIjoiNTUwNzVkZjctNDQ1Ni00MDI1LWEyNjYtZjYwMDY3OTlkNzI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=a7cafabad3b62fc56d95)_
+## Live Dashboard: _[Business-360-Project](https://app.powerbi.com/view?r=eyJrIjoiY2QwODZlMjMtN2M3OS00MTc1LTk5NTAtODYzMTEzZWExMmFiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=a7cafabad3b62fc56d95)_
 ## Home Page :
 
 
